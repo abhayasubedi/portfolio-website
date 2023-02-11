@@ -1,0 +1,97 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.Abhaya{
+    height: 80px;
+    width: 100%;
+   background-color:#57A8CC ;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding-top:20px ;
+    padding-left:20px ;
+    padding-right:20px ;
+
+}
+.Name{
+    color: rgb(121, 213, 213);
+    font-size: 25px;
+}
+span{
+    color: brown;
+}
+ul{
+    display: inline;
+}
+ul a{
+    margin-left: 100px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #8D0216;
+    transition: all 0.3s ease-in-out;
+}
+ul a:hover{
+    color:#79D3D3 ;
+}
+button{
+    background-color: #79D3D3;
+    padding: 12px 30px;
+    border-radius: 20px;
+    margin-left: 500px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+button:hover{
+    background-color: #7eb8d1;
+}
+button a{
+    color: #8D0216;
+}
+.myintro{
+    background-color:#182F56;
+    height:1350px ;
+}
+#institute{
+    color: #79D3D3;
+    text-align: center;
+
+    
+}
+#newtons{
+    margin-left: 5rem;
+    margin-top: 40px;
+}
+#newtons a{
+    color: #79D3D3;
+    text-decoration:none;
+    text-transform:uppercase;
+   
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    
+}
+#newtons a:hover{
+    color: #7eb8d1;
+}
+p{
+    color: #57A8CC;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+img{
+    width: 35rem;
+    display: flex;
+    margin-left: 6rem;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
